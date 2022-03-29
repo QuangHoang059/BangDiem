@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Bảng điểm\Bảng điểm\bin\Release\Bảng điểm.exe.config
+C:\Users\Admin\Desktop\Bảng điểm\Bảng điểm\bin\Release\Bảng điểm.exe
+C:\Users\Admin\Desktop\Bảng điểm\Bảng điểm\bin\Release\Bảng điểm.pdb
+C:\Users\Admin\Desktop\Bảng điểm\Bảng điểm\obj\Release\Bảng điểm.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Bảng điểm\Bảng điểm\obj\Release\Bảng_điểm.Form1.resources
+C:\Users\Admin\Desktop\Bảng điểm\Bảng điểm\obj\Release\Bảng_điểm.Form2.resources
+C:\Users\Admin\Desktop\Bảng điểm\Bảng điểm\obj\Release\Bảng_điểm.Properties.Resources.resources
+C:\Users\Admin\Desktop\Bảng điểm\Bảng điểm\obj\Release\Bảng điểm.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Bảng điểm\Bảng điểm\obj\Release\Bảng điểm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Bảng điểm\Bảng điểm\obj\Release\Bảng điểm.exe
+C:\Users\Admin\Desktop\Bảng điểm\Bảng điểm\obj\Release\Bảng điểm.pdb

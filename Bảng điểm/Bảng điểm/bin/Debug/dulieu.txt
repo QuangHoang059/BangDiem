@@ -1,0 +1,4 @@
+năm,họckì,môn,tínchỉ,điểm
+1,I,DSTT,4,8
+1,I,Giải tích,3,7
+1,I,Nhập môn lập trình,3,8
